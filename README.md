@@ -2,7 +2,7 @@
 
 <div>
   <h1 align="center">E ai! Tudo bem? 😃️</h1>
-  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Guilherme Gomes</i></a> e eu estudo Desenvolvimento de TI <a href="https://www.betrybe.com/"><i>Trybe</i></a>. 😃️
+  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BpoRQlPI%2FSZCfwmt5pzetww%3D%3D"><i>Guilherme Gomes</i></a> e eu estudo Desenvolvimento de TI <a href="https://www.betrybe.com/"><i>Trybe</i></a>. 😃️
   <p align="center"> Sou apaixonado por tecnologia e gosto de compartilhar meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1"><i>YouTube</i></a><span> 👉🏽️</span>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Guilherme Gomes</i></a> 😃️</h1>
   <p align="center">Estudo Desenvolvimento de TI <a href="https://www.betrybe.com/"><i>Trybe</i></a> e compartilho meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1"><i>YouTube</i></a><span> 👉🏽️</span>
